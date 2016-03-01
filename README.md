@@ -1,2 +1,2 @@
 # leetcode
-oj
+##For preparing technical coding interviews
